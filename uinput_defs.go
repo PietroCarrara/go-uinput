@@ -357,6 +357,32 @@ const (
 	BtnBack    = 0x116
 	BtnTask    = 0x117
 
+	BtnGamepad = 0x130
+	BtnSouth   = 0x130
+	BtnA       = BtnSouth
+	BtnEast    = 0x131
+	BtnB       = BtnEast
+	BtnC       = 0x132
+	BtnNorth   = 0x133
+	BtnX       = BtnNorth
+	BtnWest    = 0x134
+	BtnY       = BtnWest
+	BtnZ       = 0x135
+	BtnTL      = 0x136
+	BtnTR      = 0x137
+	BtnTL2     = 0x138
+	BtnTR2     = 0x139
+	BtnSelect  = 0x13a
+	BtnStart   = 0x13b
+	BtnMode    = 0x13c
+	BtnThumbL  = 0x13d
+	BtnThumbR  = 0x13e
+
+	BtnDpadUp    = 0x220
+	BtnDpadDown  = 0x221
+	BtnDpadLeft  = 0x222
+	BtnDpadRight = 0x223
+
 	BtnDigi          = 0x140
 	BtnToolPen       = 0x140
 	BtnToolRubber    = 0x141
